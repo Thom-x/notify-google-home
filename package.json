@@ -1,0 +1,25 @@
+{
+  "name": "notify-google-home",
+  "version": "1.0.0",
+  "description": "",
+  "main": "notify-google-home.js",
+  "scripts": {},
+  "author": "Maugin Thomas",
+  "keywords": [
+    "google home",
+    "google home mini",
+    "push",
+    "mp3",
+    "notifications",
+    "notifier"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thom-x/notify-google-home.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "castv2-client": "^1.2.0",
+    "google-tts-api": "^0.0.2"
+  }
+}
